@@ -1,1 +1,1 @@
-### [预览](https://github.com/Hxvin/xmxzjun/blob/master/index.html)
+### [预览](http://hxvin.me/xmxzjun/index.html)

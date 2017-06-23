@@ -46,28 +46,12 @@ body{
     float: left;
 }
 
-/*.logo-right{
-    width: 300px;
-    height:28px;
-    margin-top: 30px;
-    float: right;
-
-}
-.logo-right img{
-    vertical-align: middle;
-    margin-right: 10px;
-}
-.logo-right .tel{
-    font: 22px 微软雅黑;
-   color:#C00;
-}*/
 .time{
-     width: 300px;
+     width: 340px;
     height:28px;
     margin-top: 30px;
     float: right;
     vertical-align: middle;
-    margin-right: 10px
 }
 .time .lefttext{
     font: 22px 微软雅黑;
@@ -75,7 +59,6 @@ body{
 }
 #LeftTime{
     font: 16px 微软雅黑;
-    /*color:#C00;*/
 }
 .nav{
   height: 40px;
@@ -85,7 +68,6 @@ body{
 .nav-left,.nav-right{
 height:40px;
 float: left;
-/*display: inline;*/
 }
 .nav-left{
     width: 720px;
@@ -104,10 +86,6 @@ float: left;
   background-color: #28A2E5;
 }
 .nav-left ul li ul {
-     /*width:90px;*/
-     /*position:absolute;
-     left:0px;
-     top:40px;*/
      position:relative;
      z-index:19999;
      display:none;
@@ -203,10 +181,6 @@ margin-top: 10px;
 line-height: 20px;
 margin-left: 20px;
 }
-/*.news-pic img{
-float: left;
-margin:0 5px;
-}*/
 .news-pic a{
 color: #c00;
 text-decoration: none;
